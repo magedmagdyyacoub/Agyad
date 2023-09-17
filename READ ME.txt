@@ -1,0 +1,10 @@
+project AGYAD contains:
+
+
+Multi Authentication (Admin,Manager,User)
+Role and Permission
+CRUD for Users, Products , Roles with images
+Localization
+Simple Admin Panel
+Responsive WebSite
+ContactUs with Company mail
